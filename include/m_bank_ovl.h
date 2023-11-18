@@ -11,7 +11,7 @@ extern "C" {
 
 #define mBN_CURSOL_MAX 5
 #define mBN_CUSROL_OK 6
-#define mBN_DEPOSIT_MAX 999999999
+#define mBN_DEPOSIT_MAX 999999999999
 
 struct bank_ovl_s {
   int player_max_bell; /* maximum amount of bells the player can hold */
